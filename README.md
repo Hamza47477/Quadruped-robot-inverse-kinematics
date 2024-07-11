@@ -1,5 +1,5 @@
 # quadruped-robot
-![quadruped]()
+![quadruped](https://github.com/Hamza47477/Quadruped-robot-inverse-kinematics/blob/main/Robot_hardware.png)
 
 A quadruped robot for a university capstone project. The associated CAD files can be found on [GrabCad](https://grabcad.com/library/quadruped-robot-w-code-1)
 
