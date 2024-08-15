@@ -14,7 +14,3 @@ This project was created with the intention of developing a robot that can follo
 ### Robot Control
 The robot uses an inverse kinematic model to determine how to position the foot in the requested location. Some of the math for this can be seen in the model directory with the jupyter notebook 
 
-#TODO: clean up jupyter notebook (and probably all other files)
-#TODO: add set up instructions for initial robot building
-#TODO: consistent file/folder naming
-
